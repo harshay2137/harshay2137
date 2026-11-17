@@ -10,15 +10,15 @@
 
 ## 👨‍💻 About Me
 
-- ☁️ DevOps & Cloud Engineer focused on **automation, infrastructure as code, and reliable delivery pipelines**
-- 🏥 Currently working on cloud infrastructure in the **Healthcare domain**
-- 🏗️ Provisioning infrastructure on **AWS & Azure** using **Terraform**
-- ☸️ Running containerised workloads on **Kubernetes** with **GitOps** (Argo CD, Helm)
-- 🔁 Building **CI/CD pipelines** with Jenkins, GitHub Actions and Docker
-- 📈 Monitoring & observability with **Prometheus and Grafana**
-- 💬 Ask me about **Cloud, DevOps, Kubernetes and IaC**
-- 📫 Reach me at **harshayraut21@gmail.com**
-- ⚡ Fun fact: **Anime lover**
+-  DevOps & Cloud Engineer focused on **automation, infrastructure as code, and reliable delivery pipelines**
+-  Currently working on cloud infrastructure in the **Healthcare domain**
+-  Provisioning infrastructure on **AWS & Azure** using **Terraform**
+-  Running containerised workloads on **Kubernetes** with **GitOps** (Argo CD, Helm)
+-  Building **CI/CD pipelines** with Jenkins, GitHub Actions and Docker
+-  Monitoring & observability with **Prometheus and Grafana**
+-  Ask me about **Cloud, DevOps, Kubernetes and IaC**
+-  Reach me at **harshayraut21@gmail.com**
+-  Fun fact: **Anime lover**
 
 ---
 
