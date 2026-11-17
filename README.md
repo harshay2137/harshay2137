@@ -5,6 +5,14 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=harshay2137" alt="harshay2137" /></a> </p>
 
+- 🔭 I’m currently working on **Health Domain**
+
+- 💬 Ask me about **Cloud Technologies**
+
+- 📫 How to reach me **Harshayraut37@gmail.com**
+
+- ⚡ Fun fact **Anime Lover**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/linkedin.com/in/harshay-pradip-raut-5b6b782a5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/harshay-pradip-raut-5b6b782a5" height="30" width="40" /></a>
