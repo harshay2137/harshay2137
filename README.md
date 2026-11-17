@@ -8,7 +8,7 @@
 
 ---
 
-## 👨‍💻 About Me
+##  About Me
 
 -  DevOps & Cloud Engineer focused on **automation, infrastructure as code, and reliable delivery pipelines**
 -  Currently working on cloud infrastructure in the **Healthcare domain**
